@@ -8,6 +8,8 @@ This project introduces the concept of *probable fairness* — a lightweight way
 - Smart contract randomness (commit–reveal pattern)
 - Verifiable fairness
 - Solidity fundamentals (arrays, loops, events, modifiers)
+- 
+<img width="935" height="457" alt="image" src="https://github.com/user-attachments/assets/11308d03-b8b0-4ec3-969d-ab2d5edc3efb" />
 
 ---
 
@@ -42,7 +44,3 @@ This project introduces the concept of *probable fairness* — a lightweight way
 
 ---
 
-## 📄 Smart Contract Code
-```solidity
-//paste your code
-<img width="935" height="457" alt="image" src="https://github.com/user-attachments/assets/11308d03-b8b0-4ec3-969d-ab2d5edc3efb" />
